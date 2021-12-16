@@ -1,0 +1,20 @@
+{
+  "name": "funtional-programing-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clifford18/functional-programing-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clifford18/functional-programing-javascript/issues"
+  },
+  "homepage": "https://github.com/Clifford18/functional-programing-javascript#readme"
+}
