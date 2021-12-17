@@ -7,3 +7,7 @@ Using filter and forloop.
 ## Map in Javascript
 Using Map and forloop.
 - map.js
+
+## Reduce in Javascript
+Using Reduce and forloop.
+- reduce.js
