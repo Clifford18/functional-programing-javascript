@@ -14,5 +14,9 @@ Using Reduce and forloop.
 - advacedReduce.js
 
 ## Closures in Javascript
-Using Reduce and forloop.
+Using closure
 - closure.js
+
+## Curry in Javascript
+Using curry
+- curry.js
