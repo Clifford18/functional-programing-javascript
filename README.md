@@ -11,3 +11,5 @@ Using Map and forloop.
 ## Reduce in Javascript
 Using Reduce and forloop.
 - reduce.js
+- advacedReduce.js
+
