@@ -18,3 +18,6 @@ console.log ("@Names MapsArrowFunctionImplicitReturn  ", JSON.stringify(mapNames
 console.log ("@totalamount forTotalAmount  =", JSON.stringify(forTotalAmount, null, 2) )
 console.log ("@totalamount reduceTotalAmount  =", JSON.stringify(reduceTotalAmount, null, 2) )
 console.log ("@totalamount reduceArrowFuncTotalAmount  =", JSON.stringify(reduceArrowFuncTotalAmount, null, 2) )
+
+//advanced reduce
+
