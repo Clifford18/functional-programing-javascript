@@ -13,3 +13,6 @@ Using Reduce and forloop.
 - reduce.js
 - advacedReduce.js
 
+## Closures in Javascript
+Using Reduce and forloop.
+- closure.js
