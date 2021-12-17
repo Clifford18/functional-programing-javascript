@@ -1,6 +1,7 @@
 const {filterDogs,forLoopDogs, alterFilterDogs} = require("./filter")
 const {forNames,mapNames, mapNamesArrowFunc, mapNamesArrowFuncImplicitReturn} =require("./map")
 const {forTotalAmount,reduceTotalAmount,reduceArrowFuncTotalAmount} = require("./reduce")
+const {greetMe} = require("./closures");
 console.log ("test")
 
 //filter
@@ -21,3 +22,5 @@ console.log ("@totalamount reduceArrowFuncTotalAmount  =", JSON.stringify(reduce
 
 //advanced reduce
 
+//closure
+greetMe()
