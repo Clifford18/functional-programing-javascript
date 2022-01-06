@@ -10,7 +10,7 @@ var reduceTotalAmount = orders.reduce(function (sum,order) {
     return sum +order.amount
 },0)
 
-//reduce arrowfunct
+//reduce arrowfunction
 var reduceArrowFuncTotalAmount = orders.reduce((sum,order) => sum +order.amount,0)
 
 //for loop
