@@ -25,6 +25,9 @@ let makeTree =(categories, parent) => {
 	return node
 };
 
+// console.log(JSON.stringify( makeTree(categories,null),null,2));
+
+
 
 
 module.exports = {countDownFrom, makeTree, categories};
