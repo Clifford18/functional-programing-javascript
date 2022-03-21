@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/Clifford18/functional-programing-javascript#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "baconjs": "^3.0.17",
+    "fetch": "^1.1.0",
+    "highland": "^2.13.5",
+    "lodash": "^4.17.21",
+    "node-fetch": "^3.2.3"
   }
 }
