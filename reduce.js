@@ -6,7 +6,7 @@ var orders =[
 ]
 //reduce
 var reduceTotalAmount = orders.reduce(function (sum,order) {
-    console.log("Hello",sum,order)
+   // console.log("Hello",sum,order)
     return sum +order.amount
 },0)
 
@@ -19,4 +19,4 @@ for (var i =0; i<orders.length;i++){
     forTotalAmount +=orders[i].amount
 }
 
-module.exports = {forTotalAmount,reduceTotalAmount,reduceArrowFuncTotalAmount}
+//module.exports = {forTotalAmount,reduceTotalAmount,reduceArrowFuncTotalAmount}
